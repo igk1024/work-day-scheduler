@@ -25,6 +25,7 @@ THEN the saved events persist<br />
 
 ## Mock-Up
 The following animation demonstrates the application functionality:
+<img src="assets/images/work-day-scheduler-animation.gif">
 
 ## Deployed Application URL
 <a href="https://igk1024.github.io/work-day-scheduler/" target="_blank">Work Day Scheduler</a>

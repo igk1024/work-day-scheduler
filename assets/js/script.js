@@ -113,6 +113,12 @@ $(".task").click(function() {
     }
 })
 
+
+$("selectable").click(function() {
+    $(this).select();
+});
+
+
 //Save button
 $(".saveBtn").click(function() {
     replaceTextarea($(this));
